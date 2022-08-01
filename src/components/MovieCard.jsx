@@ -7,7 +7,7 @@ const imageUrl = import.meta.env.VITE_IMG
 
 const MovieCard = ({movie}) => {
   return (
-    <div>MovieCard zap zap</div>
+    <div>MovieCard zap zap zap</div>
   )
 }
 
